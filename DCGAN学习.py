@@ -1,10 +1,3 @@
-'''
-Description描述: GCGAN人脸嘴部表情生成
-Autor作者: lhy
-Date日期: 2023-1-11 9:06:12
-LastEditTime: 2023-1-12 18:24:05
-'''
-
 #1.创建一个out文件夹来保存训练的中间结果
 import copy
 import os
